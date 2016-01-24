@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/ARM_TOOLCHAIN/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/ARM_TOOLCHAIN/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/ARM_TOOLCHAIN/value=C\:\\Users\\user\\Desktop\\robotics\\arm-none-eabi
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/LIBSCCC_INC_PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/LIBSCCC_INC_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/LIBSCCC_INC_PATH/value=C\:\\Users\\user\\git\\libsccc\\inc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/SCCC_BUILD/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/SCCC_BUILD/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/SCCC_BUILD/value=DEBUG
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/SCCC_CONFIG/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/SCCC_CONFIG/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/SCCC_CONFIG/value=2016_INNO
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.208246003/appendContributed=true
